@@ -467,17 +467,17 @@ ul,li,ol{
  height: 20px;
  position: absolute;
  left: 20px;
- top: 37px;
+ top: 46px;
  background: url(../img/name.png) no-repeat center center;
 }
 .order__name_2:before{
  content:'';
  display: block;
- width: 16px;
+ width: 24px;
  height: 20px;
  position: absolute;
- left: 20px;
- top: 38px;
+ left: 17px;
+ top: 48px;
  background: url(../img/mail.png) no-repeat center center;
 }
 .order__submit{
